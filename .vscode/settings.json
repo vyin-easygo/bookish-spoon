@@ -1,0 +1,27 @@
+{
+  "chat.agent.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "github.copilot.inlineSuggest.enable": false,
+  "cursor.cpp.enable": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.resolveGlobalModules": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/public": true,
+    "**/.claude": true,
+    // "**/.gitignore": true,
+    "**/tsconfig.app.json": true,
+    "**/tsconfig.json": true,
+    "**/tsconfig.node.json": true,
+    "**/vite.config.ts": true,
+    "**/package-lock.json": true,
+    "**/eslint.config.js": true
+  }
+}
