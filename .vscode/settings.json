@@ -16,7 +16,7 @@
     "**/build": true,
     "**/public": true,
     "**/.claude": true,
-    // "**/.gitignore": true,
+    "**/.gitignore": true,
     "**/tsconfig.app.json": true,
     "**/tsconfig.json": true,
     "**/tsconfig.node.json": true,
