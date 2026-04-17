@@ -16,7 +16,7 @@ npm run dev
 
 ## The Brief
 
-Build a **Product Grade** `<NotificationFeed />` component that:
+Build a **Production Grade** `<NotificationFeed />` component that:
 
 1. **Renders a list of notifications**, visually distinguishing between read and unread items
 2. **Displays each notification** with its type icon/indicator, title, body, relative timestamp (e.g. "5 min ago"), and avatar when available
