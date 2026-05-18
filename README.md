@@ -43,7 +43,7 @@ A set of sample notifications is provided in `src/data/notifications.ts`. Use th
 
 ## Ground Rules
 
-- **AI tools are welcome.** Copilot, ChatGPT, whatever matches your normal workflow. However only in Ask mode and not agent mode. Inline auto completes have been disabled.
+- **AI tools are welcome.** Copilot, ChatGPT, etc. However only in Ask mode and not agent mode. Inline auto completes have been disabled. We encourage you to use AI for boilerplate, syntax lookup, and low-signal utility code so we can spend more of the session on frontend judgment, architecture, and tradeoffs.
 - **Libraries are welcome.** Install anything you'd reach for in a real project. Just be ready to explain why.
 - **There is no design file.** Use your judgment — we care about structure and decisions more than pixel polish.
 - **Think aloud.** We want to understand your reasoning, not just the output.
