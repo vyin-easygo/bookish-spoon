@@ -45,6 +45,8 @@ A set of sample notifications is provided in `src/data/notifications.ts`. Use th
 
 - **AI tools are welcome.** Copilot, ChatGPT, etc. However only in Ask mode and not agent mode. Inline auto completes have been disabled. We **encourage** you to use AI for boilerplate, syntax lookup, and low-signal utility code so we can spend more of the session on your frontend judgement, architecture, and tradeoffs.
 - **Libraries are welcome.** Install anything you'd reach for in a real project. Just be ready to explain why.
+  - `Tailwind` is already setup
+  - React icons are setup and installed feel free to use these [React Icons](https://react-icons.github.io/react-icons/icons/fa/)
 - **There is no design file.** Use your judgment — we care about structure and decisions more than pixel polish.
 - **Think aloud.** We want to understand your reasoning, not just the output.
 
